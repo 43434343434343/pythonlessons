@@ -1,4 +1,4 @@
-# Değişken Dönüşümü
+# variable revolation
 
 x=input("1.sayı : ")
 y=input("2.sayı : ")
